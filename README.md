@@ -1,5 +1,9 @@
 # Mathematics books
 
+## [Analytical Geometry](./analytical%20geometry/)
+
+* [《解析几何》](./analytical%20geometry/解析几何%20丘维声%20第三版.pdf)
+
 ## [Mathematical Thinking](./mathematical%20thinking/)
 
 * [_Mathematical Thinking: Why Everyone Should Study Math_](./mathematical%20thinking/Mathematical%20Thinking%20Why%20Everyone%20Should%20Study%20Math.pdf)
