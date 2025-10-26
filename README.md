@@ -1,5 +1,9 @@
 # Mathematics books
 
+## [Mathematical Thinking](./mathematical%20thinking/)
+
+* [_Mathematical Thinking: Why Everyone Should Study Math_](./mathematical%20thinking/Mathematical%20Thinking%20Why%20Everyone%20Should%20Study%20Math.pdf)
+
 ## [Proof](./proof/)
 
 * [_Proof and the Art of Mathematics_](./proof/Proof%20and%20the%20Art%20of%20Mathematics%20(Joel%20David%20Hamkins)%20(Z-Library).pdf)
