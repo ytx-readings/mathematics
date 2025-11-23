@@ -2,6 +2,11 @@
 
 ## [Analytical Geometry](./analytical%20geometry/)
 
+- [_Analytical Geometry_ by A. C. Burdette](<./analytical%20geometry/Analytic%20Geometry%20(A.%20C.%20Burdette)%20(Z-Library).pdf>)
+- [_Analytical Geometry_ by V. A. Ilyin and E.G. Poznyak](<./analytical geometry/Analytic Geometry (V.A.ILYIN and E.G.POZNYAK) (Z-Library).pdf>)
+- [_Analytical Geometry_ by A. V. Pogorelov](<./analytical%20geometry/Analytical%20Geometry%20(A.%20V.%20Pogorelov)%20(Z-Library).pdf>)
+- [_Analytical Geometry_ by Barry Spain](<./analytical%20geometry/Analytical%20Geometry%20(Barry%20Spain)%20(Z-Library).pdf>)
+- [_Analytical Geometry_ by Lewis Parker Siceloff, George Wentworth, etc.](<./analytical%20geometry/Analytical%20Geometry%20(Lewis%20Parker%20Siceloff,%20George%20Wentworth%20etc.)%20(Z-Library).pdf>)
 - [《解析几何》](./analytical%20geometry/解析几何%20丘维声%20第三版.pdf)
 
 ## [Differential Geometry](./differential%20geometry/)
