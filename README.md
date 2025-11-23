@@ -11,6 +11,10 @@
 - [_Differential Geometry of Curves and Surfaces_ by Shoshichi Kobayashi](./differential%20geometry/dokumen.pub_differential-geometry-of-curves-and-surfaces-1st-ed-2019-978-981-15-1738-9-978-981-15-1739-6.pdf)
 - [_Differential Geometry of Curves and Surfaces: A Concise Guide_ by Victor Andreevich Toponogov](./differential%20geometry/Toponogov.pdf)
 
+## [Linear Algebra](./linear%20algebra/)
+
+- [_Introduction to Linear Algebra_ Sixth Edition](./linear%20algebra/dokumen.pub_introduction-to-linear-algebra-6nbsped-1733146679-9781733146678.pdf)
+
 ## [Mathematical Thinking](./mathematical%20thinking/)
 
 - [_Mathematical Thinking: Why Everyone Should Study Math_](./mathematical%20thinking/Mathematical%20Thinking%20Why%20Everyone%20Should%20Study%20Math.pdf)
