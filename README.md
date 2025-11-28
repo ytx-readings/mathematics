@@ -24,6 +24,10 @@
 
 - [_Mathematical Thinking: Why Everyone Should Study Math_](./mathematical%20thinking/Mathematical%20Thinking%20Why%20Everyone%20Should%20Study%20Math.pdf)
 
+## [Probability](./probability/)
+
+- [_Elements of Measure and Probability_](<./probability/Elements%20of%20Measure%20and%20Probability%20(Arup%20Bose)%20(Z-Library).pdf>)
+
 ## [Proof](./proof/)
 
 - [_Proof and the Art of Mathematics_](<./proof/Proof%20and%20the%20Art%20of%20Mathematics%20(Joel%20David%20Hamkins)%20(Z-Library).pdf>)
